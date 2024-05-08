@@ -1,0 +1,5 @@
+[project]
+name = "parmap"
+version = "0.1"
+
+dependencies = ["tqdm", "pandas", "multiprocess"]
